@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="napravlenie">
+        <item>Спортивное</item>
+        <item>Патриотическое</item>
+        <item>Духовное</item>
+        <item>Социальное</item>
+        <item>Культурное</item>
+    </string-array>
+</resources>

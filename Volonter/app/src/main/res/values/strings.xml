@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Volonter</string>
+    <string name="authorization_text">Вход в личный кабинет</string>
+    <string name="hint_1">Введите логин</string>
+    <string name="hint_2">Введите пароль</string>
+    <string name="authorization_button">Войти</string>
+    <string name="registration_button">Зарегистрироваться</string>
+
+    <string name="main_text1">Volonter - главная платформа добрых дел</string>
+    <string name="main_text2">Помогайте нуждающимся, учавствуйте в масштабных событиях, путешествуйте со смыслом, находите единомышленников, получайте новые впечатления!</string>
+    <string name="message_button">Уведомления</string>
+    <string name="my_events_button">Мои мероприятия</string>
+
+    <string name="name">Введите имя</string>
+    <string name="lastname">Введите фамилию</string>
+    <string name="patronymic">Введите отчество</string>
+    <string name="age">Возраст</string>
+    <string name="phone">Номер телефона</string>
+    <string name="login">Логин для личного кабинета</string>
+    <string name="password">Пароль для личного кабинета</string>
+    <string name="post">Должность</string>
+    <string name="divizion">Дивизион</string>
+
+    <string name="events_text">Создайте новое мероприятие</string>
+    <string name="data">Дата мероприятия</string>
+    <string name="organizer">Организатор</string>
+    <string name="place">Место проведения</string>
+    <string name="name_events">Название мероприятия</string>
+    <string name="napravlenie_text">Направление мероприятия</string>
+
+    <string name="fio">Имя и фамилия</string>
+    <string name="mail">Ваша почта</string>
+
+    <string name="events_app">Мероприятия</string>
+    <string name="events_button1">Создать новое мероприятие</string>
+    <string name="events_button2">Зарегестрироваться на мероприятие</string>
+    <string name="events_open_text">Доступные мероприятия</string>
+    <string name="search_event">Поиск мероприятий</string>
+
+    <string name="events_item_text">Название</string>
+    <string name="events_item_organizer">Имя организатора</string>
+    <string name="events_item_date">Дата мероприятия</string>
+    <string name="events_item_place">Место проведения</string>
+    <string name="events_item_direction">Направление</string>
+    <string name="events_item_button">Подробнее</string>
+
+    <string name="account_app">Личный кабинет</string>
+    <string name="account_name">Имя</string>
+    <string name="account_lastname">Фамилия</string>
+    <string name="account_post">Должность</string>
+    <string name="progress_text">50/200</string>
+    <string name="exit_button">Выход из аккаунта</string>
+
+    <string name="close_settings">Закрыть</string>
+    <string name="save_settings">Сохранить</string>
+    <string name="settings_hint1">Ваше имя</string>
+    <string name="settings_hint2">Ваша фамилия</string>
+    <string name="settings_hint3">Ваш возраст</string>
+</resources>
